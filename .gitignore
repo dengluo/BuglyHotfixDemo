@@ -1,0 +1,10 @@
+*.iml
+local.properties
+BuglyHotfixDemo.iml
+.gradle/
+.idea/
+app/appProduct/release/app-appProduct-release.apk
+app/appProduct/
+build/
+app/appTest/
+app/app.iml
